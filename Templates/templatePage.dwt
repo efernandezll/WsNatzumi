@@ -105,7 +105,7 @@
           <div class="row">
             <div class="col-2"><img class="rounded-circle" alt="Free Shipping" src="../images/40X40.gif"></div>
             <div class="col-lg-6 col-10 ml-1">
-              <h4>Free Shipping</h4>
+              <h4>Envió gratis.</h4>
             </div>
           </div>
         </div>
@@ -113,7 +113,7 @@
           <div class="row">
             <div class="col-2"><img class="rounded-circle" alt="Free Shipping" src="../images/40X40.gif"></div>
             <div class="col-lg-6 col-10 ml-1">
-              <h4>Free Returns</h4>
+              <h4>Devoluciones gratis</h4>
             </div>
           </div>
         </div>
@@ -121,7 +121,7 @@
           <div class="row">
             <div class="col-2"><img class="rounded-circle" alt="Free Shipping" src="../images/40X40.gif"></div>
             <div class="col-lg-6 col-10 ml-1">
-              <h4>Low Prices</h4>
+              <h4>Precios bajos</h4>
             </div>
           </div>
         </div>
@@ -130,7 +130,7 @@
     <hr>
   <!-- TemplateBeginEditable name="Contenido 1" -->
 	   
-    <h2 class="text-center">RECOMMENDED PRODUCTS</h2>
+    <h2 class="text-center">PRODUCTOS RECOMENDADOS</h2>
     <hr>
     <div class="container">
       <div class="row text-center">
@@ -203,7 +203,7 @@
     <hr>
 	   <!-- TemplateBeginEditable name="Contenido 2" -->
 	  
-    <h2 class="text-center">FEATURED PRODUCTS</h2>
+    <h2 class="text-center">PRODUCTOS DESTACADOS</h2>
     <hr>
     <div class="container">
       <div class="row">
@@ -311,27 +311,21 @@
                 <li class="btn-link"> <a>Link anchor</a> </li>
               </ul>
             </div>
-            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
-              <ul class="list-unstyled">
-                <li class="btn-link"> <a>Link anchor</a> </li>
-                <li class="btn-link"> <a>Link anchor</a> </li>
-                <li class="btn-link"> <a>Link anchor</a> </li>
-                <li class="btn-link"> <a>Link anchor</a> </li>
-                <li class="btn-link"> <a>Link anchor</a> </li>
-              </ul>
-            </div>
           </div>
         </div>
         <div class="col-md-4 col-lg-5 col-6">
           <address>
-            <strong>MyStoreFront, Inc.</strong><br>
-            Indian Treasure Link<br>
-            Quitman, WA, 99110-0219<br>
-            <abbr title="Phone">P:</abbr> (123) 456-7890
-          </address>
-          <address>
-            <strong>Full Name</strong><br>
-            <a href="mailto:#">first.last@example.com</a>
+            <strong>NatzuStores.</strong>
+            <br>Mercado 20 de Abril, Stand 26 / 42 - Bellavista, Callao, Perú.
+			<br>
+            <abbr title="Phone">P:</abbr> (01) 991 107 202
+			<br>
+			 Jirón Colón 776 - Callao, Perú.
+            <!--<br>Quitman, WA, 99110-0219<br>-->
+			<br>
+            <abbr title="Phone">P:</abbr> (01) 940 986 324 
+			<br>
+            <a href="mailto:#">ventas@natzustores.com.pe</a>
           </address>
         </div>
       </div>
@@ -340,11 +334,12 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <p>Copyright © MyWebsite. All rights reserved.</p>
+            <p>NatzuStores ® - e.fernandez all rights reserved.</p>
           </div>
         </div>
       </div>
     </footer>
+	  
 	  
    <!-- TemplateEndEditable -->
 	  <!-- TemplateBeginIf cond="Opcional" -->
