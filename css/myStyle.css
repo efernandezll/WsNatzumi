@@ -4,3 +4,8 @@
 .break:before{ 
 	display: block; content: " " ; 
 }
+
+h5.titulo{
+	color :white;
+	
+}

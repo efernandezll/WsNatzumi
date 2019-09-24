@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="Templates/templatePage.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/templatePage.dwt" codeOutsideHTMLIsLocked="false" -->
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -168,7 +168,7 @@
           <div class="card">
             <img class="card-img-top" src="images/logoqlp.png" alt="Card image cap">
             <div class="card-body">
-			  <h5 class="card-title">QLP MUSIC E.I.R.L </h5>
+			  <h5 class="card-title">&nbsp; QLP &nbsp; MUSIC &nbsp; E.I.R.L &nbsp;</h5>
               <p class="card-text"></p>
 				
               <!-- <a href="#" class="btn btn-primary">Add to Cart</a>-->
